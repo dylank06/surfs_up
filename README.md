@@ -19,6 +19,10 @@ Used Python's Pandas functions and methods, and SQLAlchemy, to filter the date c
 
 ## Results:
 
+Flask app:
+
+![Screen Shot 2021-02-19 at 4 16 31 PM](https://user-images.githubusercontent.com/16258584/108567483-f1787e80-72cd-11eb-8d98-da2e0dbce7d7.png)
+
 1. June and December have very similar tempertures for the mean and the max. 
 2. Standatd deviation for both months were very, but decembers was higher.
 3. June has more data points than December.
