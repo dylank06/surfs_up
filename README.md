@@ -5,6 +5,10 @@ The purpose of this analysis was to use Python SQLAlchemy, and Flask to analyze 
 
 ## Overview:
 
+### Created Flask App
+
+Create five routes for our flask app: Welcome, Precipitation, Stations, Monthly Temperature, and Statistics.
+
 ### Determined the Summary Statistics for the Month of June 
 
 Used Python's Pandas functions and methods, and SQLAlchemy, to filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. Then converted those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
