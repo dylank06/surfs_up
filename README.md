@@ -1,7 +1,17 @@
 # surfs_up
 
-## Overview of the analysis:
-The purpose of this analysis was to combine SQLite, and python to get weather analysis.
+## Summary:
+The purpose of this analysis was to use Python SQLAlchemy, and Flask to analyze and visualize climate data for preparing to open a surf shop.
+
+## Overview:
+
+### Determined the Summary Statistics for the Month of June 
+
+Used Python's Pandas functions and methods, and SQLAlchemy, to filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. Then converted those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
+
+### Determined the Summary Statistics for the Month of December
+
+Used Python's Pandas functions and methods, and SQLAlchemy, to filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. Then converted those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
 
 ## Results:
 
@@ -17,5 +27,3 @@ December:
 
 ![Screen Shot 2020-12-05 at 5 13 30 PM](https://user-images.githubusercontent.com/16258584/101269035-9b188c80-372f-11eb-9ff1-cfdc45d3524b.png)
 
-## Summary: 
-Since the weather remains in the mid to low 70's all year you could plan a surfing trip in Dezember or June. 
