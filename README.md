@@ -7,7 +7,7 @@ The purpose of this analysis was to use Python SQLAlchemy, and Flask to analyze 
 
 ### Created Flask App
 
-Create five routes for our flask app: Welcome, Precipitation, Stations, Monthly Temperature, and Statistics.
+Created five routes for our flask app: Welcome, Precipitation, Stations, Monthly Temperature, and Statistics.
 
 ### Determined the Summary Statistics for the Month of June 
 
